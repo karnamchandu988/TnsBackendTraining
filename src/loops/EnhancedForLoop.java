@@ -1,3 +1,5 @@
+// Practing the Enhanced For Loop with the Normal Type of Input using the For loop scanning.
+
 package loops;
 
 import java.util.Scanner;
@@ -24,6 +26,8 @@ public class EnhancedForLoop {
 			
 		}
 		
+		
+		//Taking the avereage of the input elements of the array
 		
 		int sum = 0;
 		

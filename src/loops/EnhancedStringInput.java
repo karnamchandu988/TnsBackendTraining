@@ -1,3 +1,5 @@
+// Practing the Enhanced For Loop with the Space seperated input for the array.
+
 package loops;
 
 import java.util.Scanner;
@@ -13,7 +15,7 @@ public class EnhancedStringInput {
 			System.out.println("Enter the Studnet Scores: ");
 			
 			String input = sc.nextLine();
-			String[] size = input.split(" ");
+			String[] size = input.split(" ");  // Spliting the array where space is there
 			
 			int[] num = new int[size.length];
 			
