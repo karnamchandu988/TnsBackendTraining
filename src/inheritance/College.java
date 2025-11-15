@@ -1,4 +1,4 @@
-package in.avniet.tns.inheritance;
+package inheritance;
 
 public class College extends University {
 	

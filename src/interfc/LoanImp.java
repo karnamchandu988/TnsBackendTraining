@@ -1,7 +1,7 @@
 // Interface Implementation for Loans 
 
 
-package in.avniet.tnsif.interfc;
+package interfc;
 
 public class LoanImp implements Loans {
 	 double balance = 60000;

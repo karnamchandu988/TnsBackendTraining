@@ -1,6 +1,6 @@
 // Interface Main body for Loans
 
-package in.avniet.tnsif.interfc;
+package interfc;
 import java.util.Scanner;
 
 public class LoanMain {

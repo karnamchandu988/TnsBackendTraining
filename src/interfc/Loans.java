@@ -1,6 +1,6 @@
 // Practice for Interface
 
-package in.avniet.tnsif.interfc;
+package interfc;
 
 public interface Loans {
 	
